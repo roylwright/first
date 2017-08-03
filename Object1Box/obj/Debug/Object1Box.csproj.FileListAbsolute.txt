@@ -1,0 +1,6 @@
+c:\users\roy\documents\visual studio 2017\Projects\Object1Box\Object1Box\obj\Debug\Object1Box.csprojResolveAssemblyReference.cache
+C:\Users\Roy\Documents\Visual Studio 2017\Projects\Object1Box\Object1Box\bin\Debug\Object1Box.exe.config
+C:\Users\Roy\Documents\Visual Studio 2017\Projects\Object1Box\Object1Box\bin\Debug\Object1Box.exe
+C:\Users\Roy\Documents\Visual Studio 2017\Projects\Object1Box\Object1Box\bin\Debug\Object1Box.pdb
+C:\Users\Roy\Documents\Visual Studio 2017\Projects\Object1Box\Object1Box\obj\Debug\Object1Box.exe
+C:\Users\Roy\Documents\Visual Studio 2017\Projects\Object1Box\Object1Box\obj\Debug\Object1Box.pdb
